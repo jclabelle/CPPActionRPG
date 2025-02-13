@@ -1,0 +1,12 @@
+{
+  "tilesets": [
+    {
+      "name": "rpg-worlds-snowy-lands",
+      "file": "Assets/Tilesets/rpg-worlds-snowy-lands.json"
+    },
+    {
+      "name": "rpg-worlds-snowy-lands-decorative",
+      "file": "Assets/Tilesets/rpg-worlds-snowy-lands-decorative.json"
+    }
+  ]
+}

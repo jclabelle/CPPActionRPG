@@ -1,0 +1,9 @@
+{"spritesheets":[
+        {
+            "name": "SRPGMCharacter-Sheet",
+            "datafile":"TestData/SRPGMCharacter-Sheet.json",
+            "imagefile":"TestData/SRPGMCharacter-Sheet.png"
+        }
+    ]
+
+}

@@ -1,0 +1,24 @@
+{"map":"TestCity",
+"areaentities": 
+    [
+        {
+            "name":"TrapTrigger",
+            "coordinatesxy": [250,250,25]
+        },
+        {
+            "name":"AreaExit",
+            "coordinatesxy": [150,175,25]
+        }
+],
+"areacharacters":
+    [
+        {
+            "name":"RandomVendor",
+            "coordinatesxy": [400,400,25]
+        },
+        {
+            "name":"BogusHero",
+            "coordinatesxy": [500,550,25]
+        }
+    ]
+}

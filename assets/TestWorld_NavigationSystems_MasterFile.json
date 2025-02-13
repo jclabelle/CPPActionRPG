@@ -1,0 +1,9 @@
+{"navigationsystems":
+    [
+        {
+            "name":"TestNavigationSystems",
+            "file":"Assets/NavigationSystems/TestNavigationSystems.json"
+        }
+
+    ]
+}

@@ -1,0 +1,12 @@
+{"areas":
+    [
+      {
+        "name": "Test_Navmesh",
+        "file": "Assets/Areas/Test_Navmesh.json"
+      },
+      {
+        "name": "TestAI",
+        "file": "Assets/Areas/TestAI.json"
+      }
+    ]
+}

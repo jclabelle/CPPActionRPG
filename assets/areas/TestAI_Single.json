@@ -1,0 +1,13 @@
+{"map":"TestAI_Single_Map",
+    "areaentities": 
+    [
+
+    ],
+    "areacharacters":
+    [
+        {
+            "name":"RandomVendor",
+            "spawnpoint": [200.0,25.0]
+        }
+    ]
+}

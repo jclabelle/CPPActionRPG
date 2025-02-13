@@ -1,0 +1,14 @@
+{
+"actions":"Assets/TestWorld_Actions_MasterFile.json",
+"areas":"Assets/TestWorld_Areas_MasterFile.json",
+"characters": "Assets/TestWorld_Characters_MasterFile.json",
+"entities":"Assets/TestWorld_Entities_MasterFile.json",
+"gameplayeffects":"Assets/TestWorld_GameplayEffects_MasterFile.json",
+"maps": "Assets/TestWorld_Maps_MasterFile.json",
+"navigationpaths": "Assets/TestWorld_NavigationPaths_MasterFile.json",
+"navigationsystems": "Assets/TestWorld_NavigationSystems_MasterFile.json",
+"sprites": "Assets/TestWorld_Sprites_MasterFile.json",
+"textures": "Assets/TestWorld_Textures_MasterFile.json",
+"tilesets": "Assets/TestWorld_Tilesets_MasterFile.json",
+"visualeffects": "Assets/TestWorld_VisualEffects_MasterFile.json"
+}

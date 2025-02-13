@@ -1,0 +1,12 @@
+{"sprites":
+    [
+        {
+            "name":"SRPGMCharacter",
+            "file":"Assets/Sprites/SRPGMCharacter.json"
+        },
+        {
+            "name":"WaterBlast",
+            "file":"Assets/Sprites/WaterBlast.json"
+        }
+    ]
+}

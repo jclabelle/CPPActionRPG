@@ -1,0 +1,24 @@
+{"gameplayeffects":[
+    {
+        "name":"WaterBlast",
+        "speed": 200.0,
+        "zdepth":150,
+        "gameeffect":1,
+        "visualeffect":"WaterBlast",
+        "vfxloop":true,
+        "navigationsystem":"Simple Forward",
+        "lifetimeindex":1,
+        "lifetime":1
+    },
+    {
+        "name":"BasicAttack",
+        "speed": 200.0,
+        "zdepth":150,
+        "gameeffect":1,
+        "visualeffect":"WaterBlast",
+        "navigationsystem":"Simple Forward",
+        "lifetimeindex":2,
+        "lifetime":true
+    }
+]
+}

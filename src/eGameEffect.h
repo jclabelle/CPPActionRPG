@@ -1,0 +1,10 @@
+#pragma once
+
+enum class GameEffect
+{
+	TRIGGER_COLLISION_TEXT = 0,
+	LAUNCH_MISSILE = 1,
+	MELEE_IMPACT = 2,
+
+	GAMEPLAY_EFFECT_MAX
+};

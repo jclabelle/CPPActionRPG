@@ -1,0 +1,29 @@
+{"map":"Test_Navmesh_Map",
+    "areaentities": 
+    [
+
+    ],
+    "areacharacters":
+    [
+        {
+            "name":"RandomVendor",
+            "spawnpoint": [200.0,550.0]
+        },
+        {
+            "name":"Villager1",
+          "spawnpoint": [ 225.0, 550.0 ]
+        },
+        {
+            "name":"Villager2",
+          "spawnpoint": [ 250.0, 550.0 ]
+        },
+        {
+            "name":"Villager3",
+          "spawnpoint": [ 275.0, 550.0 ]
+        },
+        {
+            "name":"Villager4",
+          "spawnpoint": [ 300.0, 550.0 ]
+        }
+    ]
+}

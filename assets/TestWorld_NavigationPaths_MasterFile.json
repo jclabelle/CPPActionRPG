@@ -1,0 +1,9 @@
+{"navigationpaths":
+    [
+        {
+            "name":"TestNavigationPaths",
+            "file":"Assets/NavigationPaths/TestNavigationPaths.json"
+        }
+
+    ]
+}

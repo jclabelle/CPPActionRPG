@@ -1,0 +1,22 @@
+{
+  "columns": 32,
+  "editorsettings": {
+    "export": {
+      "format": "",
+      "target": "."
+    }
+  },
+  "image": "Textures\/rpg-worlds-snowy-lands\/rpg-worlds-snowy-lands-decorative.png",
+  "imageheight": 800,
+  "imagewidth": 1024,
+  "margin": 0,
+  "name": "rpg-worlds-snowy-lands-decorative",
+  "spacing": 0,
+  "tilecount": 800,
+  "tiledversion": "1.6.0",
+  "tileheight": 32,
+  "tilewidth": 32,
+  "transparentcolor": "#898989",
+  "type": "tileset",
+  "version": 1.4
+}

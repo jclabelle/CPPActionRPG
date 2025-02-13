@@ -1,0 +1,20 @@
+{
+  "textures": [
+    {
+      "name": "rpg-worlds-snowy-lands",
+      "file": "Assets/Tilesets/Textures/rpg-worlds-snowy-lands/rpg-worlds-snowy-lands.png"
+    },
+    {
+      "name": "rpg-worlds-snowy-lands-decorative",
+      "file": "Assets/Tilesets/Textures/rpg-worlds-snowy-lands/rpg-worlds-snowy-lands-decorative.png"
+    },
+    {
+      "name": "SRPGMCharacter_Spritesheet_V2",
+      "file": "Assets/Sprites/Textures/SRPGMCharacter_Spritesheet_V2.png"
+    },
+    {
+      "name": "WaterBall_Startup_Infinite_Spritesheet",
+      "file": "Assets/Sprites/Textures/WaterBall_Startup_Infinite_Spritesheet.png"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{"entities":
+    [
+        {
+            "name":"TestEntities",
+            "file":"Assets/Entities/TestEntities.json"
+        }
+
+    ]
+}

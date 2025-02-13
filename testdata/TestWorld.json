@@ -1,0 +1,60 @@
+{"areas":
+    [
+        {
+            "name": "TestArea",
+            "file": "Assets/Areas/TestArea.json"
+        },
+        {
+            "name": "TestCity",
+            "file": "Assets/Areas/TestCity.json"
+        }
+    ],
+"characters":
+    [
+        {
+            "name":"BogusCharacter",
+            "file":"Assets/Characters/TestCharacters.json"
+        }
+        {
+            "name":"RandomVendor",
+            "file":"Assets/Characters/TestCharacters.json"
+        }
+    ],
+"entities":
+    [
+        {
+
+        }
+    ],
+"maps":
+    [
+        {
+            "name":"TestArea_Map",
+            "file": "Assets/Areas/TestArea_Map.json"
+        },
+        {
+            "name":"TestCity_Map",
+            "file": "Assets/Areas/TestCity_Map.json"
+        }
+    ],
+"sprites":
+    [
+        {
+            "name":"SRPGMCharacter-Sheet",
+            "file":"Assets/Sprites/SRPGMCharacter-Sheet.json"
+        }
+    ],
+"textures":
+    [
+        {
+            "name":"TestTileset",
+            "file":"Assets/Tilesets/TestTileset_Atlas.png"
+        }
+    ],
+"tilesets":
+    [
+        {   "name":"TestTileset",
+            "file":"Assets/Tilesets/TestTileset.json"
+        }
+    ]
+}

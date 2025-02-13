@@ -1,0 +1,127 @@
+{"imagefile":"SRPGMCharacter_Spritesheet_V2.png",
+    "cellwidth":64,
+    "cellheight":64,
+    "collisionsize_x":16,
+    "collisionsize_y":6,
+    "collisionoffset_x": 25,
+    "collisionoffset_y": 42,
+    "animations":
+        [
+            {
+                "name":"DownAttack",
+                "facing":2,
+                "legalrotations":1,
+                "type": 21,
+                "cellcount":3,
+                "frametimes":[150.0,150.0,150.0]
+            },
+            {
+                "name":"DownIdle",
+                "cellcount":5,
+                "facing":2,
+                "legalrotations":1,
+                "type": 1,
+                "frametimes":[200.0,200.0,200.0,200.0,200.0]
+            },
+            {
+                "name":"DownWalk",
+                "cellcount":6,
+                "facing":2,
+                "legalrotations":1,
+                "type": 2,
+                "frametimes":[100.0,100.0,100.0,100.0,100.0,100.0]
+            },
+            {
+                "name":"LeftAttack",
+                "cellcount":3,
+                "facing":3,
+                "legalrotations":3,
+                "type": 21,
+                "frametimes":[150.0,150.0,150.0]
+            },
+            {
+                "name":"LeftIdle",
+                "cellcount":5,
+                "facing":3,
+                "legalrotations":3,
+                "type": 1,
+                "frametimes":[200.0,200.0,200.0,200.0,200.0]
+            },
+            {
+                "name":"LeftWalk",
+                "cellcount":6,
+                "facing":3,
+                "legalrotations":3,
+                "type": 2,
+                "frametimes":[100.0,100.0,100.0,100.0,100.0,100.0]
+
+            },
+            {
+                "name":"UpAttack",
+                "cellcount":3,
+                "facing":1,
+                "legalrotations":1,
+                "type": 21,
+                "frametimes":[150.0,150.0,150.0]
+            },
+            {
+                "name":"UpIdle",
+                "cellcount":5,
+                "facing":1,
+                "legalrotations":1,
+                "type": 1,
+                "frametimes":[200.0,200.0,200.0,200.0,200.0]
+            },
+            {
+                "name":"UpWalk",
+                "cellcount":6,
+                "facing":1,
+                "legalrotations":1,
+                "type": 2,
+                "frametimes":[100.0,100.0,100.0,100.0,100.0,100.0]
+            },
+            {
+                "name":"PickUp",
+                "cellcount":5,
+                "facing":3,
+                "legalrotations":3,
+                "type": 11,
+                "frametimes":[100.0,100.0,100.0,100.0,100.0]
+            },
+            {
+                "name":"RightAttack",
+                "cellcount":3,
+                "facing":4,
+                "legalrotations":3,
+                "type": 21,
+                "frametimes":[150.0,150.0,150.0]
+            },
+            {
+                "name":"RightIdle",
+                "cellcount":5,
+                "facing":4,
+                "legalrotations":3,
+                "type": 1,
+                "frametimes":[200.0,200.0,200.0,200.0,200.0]
+            },
+            {
+                "name":"RightWalk",
+                "cellcount":6,
+                "facing":4,
+                "legalrotations":3,
+                "type": 2,
+                "frametimes":[100.0,100.0,100.0,100.0,100.0,100.0]
+            }
+        ],
+        "gameeffectsoffsets":
+        [
+            {
+                "gameeffecttype":1,
+                "up":0,
+                "down":0,
+                "left":0,
+                "right":0,
+                "timedelay":0
+            }
+        ]
+    }  

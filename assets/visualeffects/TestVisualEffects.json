@@ -1,0 +1,71 @@
+{"visualeffects":[
+    {
+        "name":"WaterBlast",
+        "sprites": ["WaterBlast"],
+        "loop":[1,4],
+        "sequence": [
+            {
+                "spriteindex":0,
+                "statetype":101,
+                "facing":11,
+                "spriteanimationfacing":4
+            },
+            {
+                "spriteindex":0,
+                "statetype":102,
+                "facing":11,
+                "spriteanimationfacing":4
+            },
+            {
+                "spriteindex":0,
+                "statetype":103,
+                "facing":11,
+                "spriteanimationfacing":4
+            },
+            {
+                "spriteindex":0,
+                "statetype":104,
+                "facing":11,
+                "spriteanimationfacing":4
+            },
+            {
+                "spriteindex":0,
+                "statetype":105,
+                "facing":11,
+                "spriteanimationfacing":4
+            }
+            ]
+    },
+    {
+        "name":"YellowHit",
+        "sprites": ["YellowHit"],
+        "sequence": [
+            {
+                "spriteindex":0,
+                "statetype":101,
+                "facing":10,
+                "spriteanimationfacing":4
+
+            },
+            {
+                "spriteindex":1,
+                "statetype":102,
+                "facing":10,
+                "spriteanimationfacing":4
+            },            
+            {
+                "spriteindex":2,
+                "statetype":103,
+                "facing":10,
+                "spriteanimationfacing":4
+            },           
+            {
+                "spriteindex":3,
+                "statetype":104,
+                "facing":10,
+                "spriteanimationfacing":4
+            }
+            ]
+    }
+]
+}

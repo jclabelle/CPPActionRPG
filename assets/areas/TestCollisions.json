@@ -1,0 +1,24 @@
+{"map":"TestCollisions_Map",
+    "areaentities": 
+    [
+        {
+            "name":"TrapTrigger",
+            "spawnpoint": [250.0,250.0]
+        },
+        {
+            "name":"AreaExit",
+            "spawnpoint": [150.0,175.0]
+        }
+    ],
+    "areacharacters":
+    [
+        {
+            "name":"RandomVendor",
+            "spawnpoint": [200.0,25.0]
+        },
+        {
+            "name":"BogusHero",
+            "spawnpoint": [475.0,475.0]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{"imagefile":"YellowHit_Spritesheet.png",
+    "cellwidth":1024,
+    "cellheight":1024,
+    "collisionsize_x":1024,
+    "collisionsize_y":1024,
+    "collisionoffset_x": 0,
+    "collisionoffset_y": 0,
+    "animations":
+        [
+            {
+                "name":"YellowHit1",
+                "facing":10,
+                "legalrotations":2,
+                "type": 101,
+                "cellcount":4,
+                "frametimes":[50.0,50.0,50.0,50.0]
+            },
+            {
+                "name":"YellowHit2",
+                "cellcount":4,
+                "facing":10,
+                "legalrotations":2,
+                "type": 102,
+                "frametimes":[50.0,50.0,50.0, 50.0]
+            },
+            {
+                "name":"YellowHit3",
+                "cellcount":4,
+                "facing":10,
+                "legalrotations":2,
+                "type": 103,
+                "frametimes":[50.0,50.0,50.0, 50.0]
+            },
+            {
+                "name":"YellowHit4",
+                "cellcount":4,
+                "legalrotations":2,
+                "facing":10,
+                "type": 104,
+                "frametimes":[50.0,50.0,50.0, 50.0]
+            }
+        ]
+    }  

@@ -1,0 +1,51 @@
+{"characters":[
+    {
+        "name":"BogusHero",
+        "dimensions": [16.0,8.0],
+        "velocity": [5.0,5.0],
+        "zdepth":150,
+        "sprite":"SRPGMCharacter",
+        "actions":["BasicAttack", "WaterBlast"]
+    },
+    {
+        "name":"RandomVendor",
+        "dimensions": [16.0,8.0],
+        "velocity": [5.0,5.0],
+        "zdepth":150,
+        "sprite":"SRPGMCharacter",
+        "actions":[]
+    },
+    {
+        "name":"Villager1",
+        "dimensions": [16.0,8.0],
+        "velocity": [5.0,5.0],
+        "zdepth":150,
+        "sprite":"SRPGMCharacter",
+        "actions":[]
+    },
+    {
+        "name":"Villager2",
+        "dimensions": [16.0,8.0],
+        "velocity": [5.0,5.0],
+        "zdepth":150,
+        "sprite":"SRPGMCharacter",
+        "actions":[]
+    },
+    {
+        "name":"Villager3",
+        "dimensions": [16.0,8.0],
+        "velocity": [5.0,5.0],
+        "zdepth":150,
+        "sprite":"SRPGMCharacter",
+        "actions":[]
+    },
+    {
+        "name":"Villager4",
+        "dimensions": [16.0,8.0],
+        "velocity": [5.0,5.0],
+        "zdepth":150,
+        "sprite":"SRPGMCharacter",
+        "actions":[]
+    }
+]
+}

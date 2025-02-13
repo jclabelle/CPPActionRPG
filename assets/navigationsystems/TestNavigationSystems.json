@@ -1,0 +1,13 @@
+{"navigationsystems":[
+    {
+        "name":"Simple Forward",
+        "pathnames": [ "Forward"]
+
+    },
+    {
+        "name":"Downward and Forward",
+        "pathnames": [ "Downward", "Forward"]
+
+    }
+]
+}

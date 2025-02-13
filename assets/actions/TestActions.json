@@ -1,0 +1,11 @@
+{"actions":[
+    {
+        "name":"WaterBlast",
+        "gameplayeffect": "WaterBlast"
+    },
+    {
+        "name":"BasicAttack",
+        "gameplayeffect": "BasicAttack"
+    }
+]
+}

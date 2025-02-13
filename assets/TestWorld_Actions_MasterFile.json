@@ -1,0 +1,8 @@
+{"actions":
+    [
+        {   
+            "name":"TestActions",
+            "file":"Assets/Actions/TestActions.json"
+        }
+    ]
+}

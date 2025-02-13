@@ -1,0 +1,8 @@
+{"gameplayeffects":
+    [
+        {
+            "name":"TestGameplayEffects",
+            "file":"Assets/GameplayEffects/TestGameplayEffects.json"
+        }
+    ]
+}

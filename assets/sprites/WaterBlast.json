@@ -1,0 +1,51 @@
+{"imagefile":"WaterBall_Startup_Infinite_Spritesheet.png",
+    "cellwidth":64,
+    "cellheight":64,
+    "collisionsize_x":64,
+    "collisionsize_y":48,
+    "collisionoffset_x": 0,
+    "collisionoffset_y": 0,
+    "animations":
+        [
+            {
+                "name":"WaterBlast1",
+                "type": 101,
+                "facing":4,
+                "legalrotations":2,
+                "cellcount":5,
+                "frametimes":[50.0,50.0,50.0, 50.0, 50.0]
+            },
+            {
+                "name":"WaterBlast2",
+                "type": 102,
+                "facing":4,
+                "legalrotations":2,
+                "cellcount":5,
+                "frametimes":[50.0,50.0,50.0, 50.0, 50.0]
+            },
+            {
+                "name":"WaterBlast3",
+                "type": 103,
+                "facing":4,
+                "legalrotations":2,
+                "cellcount":5,
+                "frametimes":[50.0,50.0,50.0, 50.0, 50.0]
+            },
+            {
+                "name":"WaterBlast4",
+                "type": 104,
+                "facing":4,
+                "legalrotations":2,
+                "cellcount":5,
+                "frametimes":[50.0,50.0,50.0, 50.0, 50.0]
+            },
+            {
+                "name":"WaterBlast5",
+                "type": 105,
+                "facing":4,
+                "legalrotations":2,
+                "cellcount":1,
+                "frametimes":[50.0]
+            }
+        ]
+    }  

@@ -1,0 +1,23 @@
+{ "columns":32,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"",
+         "target":"."
+        }
+    },
+ "image":"Textures\/TestTileset.png",
+ "imageheight":1024,
+ "imagewidth":1024,
+ "margin":0,
+ "name":"TestTileset",
+ "spacing":0,
+ "tilecount":1024,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "transparentcolor":"#898989",
+ "type":"tileset",
+ "version":1.4
+}

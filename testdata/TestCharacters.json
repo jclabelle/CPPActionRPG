@@ -1,0 +1,15 @@
+{"character":[
+    {
+        "name":"BogusHero",
+        "dimensions": [64,64],
+        "velocity": [100,0],
+        "sprite":"SRPGMCharacter_Sheet"
+    },
+    {
+        "name":"RandomVendor",
+        "dimensions": [64,64],
+        "velocity": [100,0],
+        "sprite":"SRPGMCharacter_Sheet"
+    }
+]
+}

@@ -1,0 +1,24 @@
+{"map":"TestCity_Map",
+    "areaentities": 
+    [
+        {
+            "name":"TrapTrigger",
+            "spawnpoint": [250.0,250.0]
+        },
+        {
+            "name":"AreaExit",
+            "spawnpoint": [150.0,175.0]
+        }
+    ],
+    "areacharacters":
+    [
+        {
+            "name":"RandomVendor",
+            "spawnpoint": [400.0,400.0]
+        },
+        {
+            "name":"BogusHero",
+            "spawnpoint": [500.0,550.0]
+        }
+    ]
+}

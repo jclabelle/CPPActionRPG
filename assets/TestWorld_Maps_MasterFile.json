@@ -1,0 +1,12 @@
+{"maps":
+    [
+      {
+        "name": "Test_Navmesh_Map",
+        "file": "Assets/Areas/Test_Navmesh_Map.json"
+      },
+      {
+        "name": "TestAI_Map",
+        "file": "Assets/Areas/TestAI_Map.json"
+      }
+    ]
+}

@@ -1,0 +1,7 @@
+{"visualeffects":
+    [
+        {   "name":"TestVisualEffects",
+            "file":"Assets/VisualEffects/TestVisualEffects.json"
+        }
+    ]
+}
